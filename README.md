@@ -8,7 +8,7 @@ In this entry of _The Optimized Dev_ by [Brittney Postma][brittney-postma], foun
 
 We recommend using Stackblitz to follow the tutorial.
 
-[![Open in StackBlitz][stackblitz-src][stackblitz-href]
+[![Open in StackBlitz][stackblitz-src][stackblitz-href]]
 
 ### Manual
 
