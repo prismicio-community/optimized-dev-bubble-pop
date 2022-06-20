@@ -10,14 +10,14 @@
 </script>
 
 <Layout>
-	<!-- TODO Step 7: Add logic so the Input, welcome message, and start button show when the game is not in session -->
+	<!-- TODO Step 7: Add logic so the Input, welcome message, and start button show when the game is not in session. -->
 	<Input />
 
 	<h1>Welcome to Bubble Pop</h1>
 	<!-- TODO Step 7: Start the game when a user clicks the button below. -->
 	<button> Start Popping</button>
 
-	<!-- TODO Step 7: Add logic so Bubbles and GameBar show when the game is in session -->
+	<!-- TODO Step 7: Add logic so Bubbles and GameBar show when the game is in session. -->
 	<Bubbles />
 	<GameBar />
 </Layout>
