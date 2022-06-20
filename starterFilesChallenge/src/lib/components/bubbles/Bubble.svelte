@@ -1,9 +1,20 @@
+<script>
+	//TODO Step 2: Set a bit of state to track whether the bubble is popped or not.
+
+	//TODO Step 2: Write a function that pops the bubble below when it's clicked.
+
+	//TODO Step 4: Add to the score store each time the bubble pops!
+</script>
+
+
 <div class="positioner">
 	<div class="positioner-inner">
+		<!-- TODO Step 2: Conditionally only show the bubble while it is not popped. -->
 			<div class="bubble" />
 	</div>
 </div>
 
+<!-- Note: These styles are scoped to this component! -->
 <style>
 	.positioner {
 		--bubble-size: calc(200px * var(--scale));

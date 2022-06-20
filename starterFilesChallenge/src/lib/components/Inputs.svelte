@@ -1,13 +1,25 @@
+<script>
+	//TODO Step 6: Import your stores.
+</script>
+
 <aside class="glass">
 	<h2>Game Settings</h2>
 
 	<label>
 		Winning Score:
-		<input class="glass" min="1" max="100" type="number" name="score"  />
+		<!-- TODO Step 6: Add two-way binding between the value of this input and the finalScore store -->
+		<input 
+			class="glass"
+			min="1" 
+			max="100" 
+			type="number" 
+			name="score"  
+		/>
 	</label>
 
 	<label>
 		Total Bubbles:
+		<!-- TODO Step 6: Add two-way binding between the value of this input and the totalBubbles store -->
 		<input
 			class="glass"
 			min="1"
