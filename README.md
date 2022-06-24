@@ -18,7 +18,7 @@ We recommend using Stackblitz to follow the tutorial.
 
 ## Stepped Solutions
 
-If you get lost, you can find inside `steppedSolutions` the state of the application at the beginning of each section of the tutorial (e.g. `03-factoryDisplay` represents the application state at the beginning of the _Factory Display_ section).
+If you get lost, you can find inside `steppedSolutions` the state of the application at the beginning of each section of the tutorial (e.g. `03-stores` represents the application state at the beginning of the _Stores_ section).
 
 ## License
 
