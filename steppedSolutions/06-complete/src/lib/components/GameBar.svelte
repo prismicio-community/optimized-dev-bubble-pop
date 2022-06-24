@@ -8,6 +8,7 @@
 		lastScore.set(highScore);
 		session.set(false);
 	}
+	
 	let bubbles = document.querySelector('#bubbles');
 
 	$: if ($score === $finalScore) {

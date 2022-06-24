@@ -3,7 +3,12 @@
 
 	<label>
 		Winning Score:
-		<input class="glass" min="1" max="100" type="number" name="score" />
+		<input 
+			class="glass" 
+			min="1" 
+			max="100" 
+			type="number" 
+			name="score" />
 	</label>
 
 	<label>
