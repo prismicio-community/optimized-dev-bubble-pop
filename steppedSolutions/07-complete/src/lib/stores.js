@@ -18,7 +18,6 @@ finalScore.subscribe(score => localStorage.finalScore = score)
 
 const savedScore = localStorage.score
 
-
 export const lastScore = writable(savedScore || null)
 
 lastScore.subscribe(score => localStorage.score = score)

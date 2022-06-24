@@ -13,7 +13,7 @@
 			min="1" 
 			max="100" 
 			type="number" 
-			name="score"  
+			name="score"
 		/>
 	</label>
 
